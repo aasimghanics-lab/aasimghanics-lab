@@ -1,62 +1,94 @@
-# Hi, I'm Aasim Ghani
+# Hi, I'm Aasim Ghani 👋
 
-**Software Engineer · Backend Systems · Distributed Infrastructure · Applied Security**
+Backend Software Engineer focused on distributed systems, backend infrastructure, real-time applications, and software reliability.
 
-I build systems that coordinate work reliably across services, machines, and real-time environments. My projects focus on distributed systems, backend engineering, simulation infrastructure, observability, and secure communication.
+I enjoy building production-style software that solves difficult engineering problems—from distributed simulations and autonomous agent infrastructure to secure backend systems and operating system internals.
 
-Currently building:
+---
 
-* **Convergence** — a browser-based aerospace combat simulation backed by distributed C++ simulation workers, a Go control plane, geographic sharding, automatic recovery, WebSocket telemetry, Prometheus, Docker, Kubernetes, and Terraform.
-* **Agent reliability infrastructure** — tooling for evaluating autonomous software-engineering agents, detecting failure trajectories, enforcing policy gates, and comparing benchmark performance.
-* **InferFlow** — experiments in scalable AI inference and synthetic engineering-data pipelines.
+# 🚀 Featured Projects
 
-## Featured Engineering Work
+## Convergence
+**Distributed Aerospace Simulation Platform**
 
-### Convergence
+A distributed real-time simulation platform featuring C++ simulation workers, a Go control plane, WebSocket telemetry, geographic sharding, automatic recovery, Docker, Kubernetes, Prometheus, and Terraform.
 
-A real-time aerospace simulation built on the SkyGrid distributed simulation platform.
+**Highlights**
+- Distributed simulation architecture
+- Fault-tolerant control plane
+- Geographic entity sharding
+- Automatic recovery & replay
+- Real-time browser visualization
+- Infrastructure as code
 
-**Engineering highlights**
+➡️ **Repository:** https://github.com/aasimghanics-lab/Convergence
 
-* C++20 simulation workers operating at 60 Hz
-* Geographic sharding and versioned entity ownership
-* Acknowledged cross-shard handoffs
-* Go control plane with heartbeat-based failure detection
-* Automatic entity recovery and replayable event history
-* WebSocket telemetry fanout
-* Prometheus monitoring
-* Docker Compose, Kubernetes, Terraform, and GitHub Actions
-* Interactive browser combat layer built with TypeScript
+---
 
-[View Convergence](https://github.com/aasimghanics-lab/Convergence)
+## AgentFlight
+**AI Agent Reliability Control Plane**
 
-### MidOS
+An infrastructure platform for evaluating autonomous software engineering agents through trajectory analysis, benchmark execution, policy enforcement, and failure detection.
 
-A virtual operating system implemented in Python with process scheduling, context switching, paging, disk swap, shared memory, synchronization primitives, and dynamic heap allocation.
+**Highlights**
+- Reliability benchmarking
+- Failure trajectory analysis
+- Policy gates
+- Live telemetry
+- Experiment tracking
 
-[View MidOS](https://github.com/aasimghanics-lab/midos)
+---
 
-## Technical Focus
+## Cybersecurity Research
 
-**Languages:** Python, Go, C++, C#, TypeScript, Java, SQL, Bash
-**Backend:** FastAPI, Flask, Node.js, .NET, REST APIs, WebSockets
-**Infrastructure:** Docker, Kubernetes, Terraform, GitHub Actions, Linux
-**Data:** PostgreSQL, MySQL, SQL Server, Redis, SQLite
-**Systems:** Distributed systems, operating systems, real-time simulation, observability, application security
+Built a secure communication framework for IoT devices implementing authenticated encryption, replay protection, and secure key exchange as part of undergraduate cybersecurity research.
 
-## What I Care About
+---
 
-I am especially interested in engineering problems involving:
+## MidOS
 
-* Reliable service-to-service coordination
-* Failure detection and automatic recovery
-* Distributed state and ownership
-* Secure backend architecture
-* Real-time data pipelines
-* Developer infrastructure and AI-agent reliability
+An operating system simulator implementing:
 
-## Connect
+- Process scheduling
+- Virtual memory
+- Paging
+- Synchronization primitives
+- Heap allocation
+- Context switching
 
-* [LinkedIn](https://www.linkedin.com/in/aasim-ghani-362045263)
-* [Portfolio](https://theory-campus-98405327.figma.site/)
-* [Email](mailto:aasimghani.cs@gmail.com)
+---
+
+# 💻 Technologies
+
+### Languages
+
+Python • Go • C++ • C# • TypeScript • Java • SQL • Bash
+
+### Backend
+
+FastAPI • Flask • .NET • Node.js • REST APIs • WebSockets
+
+### Infrastructure
+
+Docker • Kubernetes • Terraform • GitHub Actions • Redis
+
+### Databases
+
+PostgreSQL • MySQL • SQL Server • SQLite
+
+---
+
+# 🌱 Currently Building
+
+- Distributed simulation infrastructure
+- AI agent reliability tooling
+- Backend infrastructure projects
+- Open-source engineering projects
+
+---
+
+# 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/aasim-ghani-362045263
+- Portfolio: https://theory-campus-98405327.figma.site/
+- Email: aasimghani.cs@gmail.com
