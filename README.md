@@ -8,12 +8,34 @@ I enjoy building production-style software that solves difficult engineering pro
 
 # 🚀 Featured Projects
 
+## RepoLens
+### Graph-First Repository Intelligence Platform
+
+Understand unfamiliar codebases before making changes through repository indexing, dependency visualization, architecture analysis, and impact estimation.
+
+🎥 **4-Minute Live Demo**
+https://loom.com/share/ca5f6f98c82d4089b59aebbce95cc3fb
+
+**Highlights**
+
+- Repository indexing
+- Dependency graph visualization
+- Impact analysis
+- Architecture health analysis
+- Incremental reindexing
+- Repository intelligence dashboard
+
+➡️ Repository: https://github.com/aasimghanics-lab/RepoLens
+
+---
+
 ## Convergence
-**Distributed Aerospace Simulation Platform**
+### Distributed Aerospace Simulation Platform
 
 A distributed real-time simulation platform featuring C++ simulation workers, a Go control plane, WebSocket telemetry, geographic sharding, automatic recovery, Docker, Kubernetes, Prometheus, and Terraform.
 
 **Highlights**
+
 - Distributed simulation architecture
 - Fault-tolerant control plane
 - Geographic entity sharding
@@ -21,21 +43,24 @@ A distributed real-time simulation platform featuring C++ simulation workers, a 
 - Real-time browser visualization
 - Infrastructure as code
 
-➡️ **Repository:** https://github.com/aasimghanics-lab/Convergence
+➡️ Repository: https://github.com/aasimghanics-lab/Convergence
 
 ---
 
 ## AgentFlight
-**AI Agent Reliability Control Plane**
+### AI Agent Reliability Control Plane
 
 An infrastructure platform for evaluating autonomous software engineering agents through trajectory analysis, benchmark execution, policy enforcement, and failure detection.
 
 **Highlights**
+
 - Reliability benchmarking
 - Failure trajectory analysis
 - Policy gates
 - Live telemetry
 - Experiment tracking
+
+➡️ Repository: https://github.com/aasimghanics-lab/AgentFlight
 
 ---
 
@@ -60,19 +85,19 @@ An operating system simulator implementing:
 
 # 💻 Technologies
 
-### Languages
+## Languages
 
 Python • Go • C++ • C# • TypeScript • Java • SQL • Bash
 
-### Backend
+## Backend
 
 FastAPI • Flask • .NET • Node.js • REST APIs • WebSockets
 
-### Infrastructure
+## Infrastructure
 
 Docker • Kubernetes • Terraform • GitHub Actions • Redis
 
-### Databases
+## Databases
 
 PostgreSQL • MySQL • SQL Server • SQLite
 
@@ -89,6 +114,8 @@ PostgreSQL • MySQL • SQL Server • SQLite
 
 # 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/aasim-ghani-362045263
-- Portfolio: https://theory-campus-98405327.figma.site/
-- Email: aasimghani.cs@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/aasim-ghani-362045263
+
+**Portfolio:** https://theory-campus-98405327.figma.site/
+
+**Email:** aasimghani.cs@gmail.com
